@@ -1,0 +1,39 @@
+{
+  "name": "usechakraui",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.tsx",
+  "dependencies": {
+    "@chakra-ui/icons": "1.0.4",
+    "@chakra-ui/react": "1.2.1",
+    "@emotion/react": "11.1.4",
+    "@emotion/styled": "11.0.0",
+    "@types/react-router-dom": "5.3.3",
+    "axios": "0.21.1",
+    "framer-motion": "3.3.0-beta.22",
+    "loader-utils": "3.2.1",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-router-dom": "5.2.0",
+    "react-scripts": "4.0.0",
+    "typescript": "4.1.3"
+  },
+  "devDependencies": {
+    "@types/react": "18.0.25",
+    "@types/react-dom": "18.0.9",
+    "typescript": "4.4.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
